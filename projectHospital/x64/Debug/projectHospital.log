@@ -1,0 +1,513 @@
+﻿  main.cpp
+C:\Users\HP\source\repos\projectHospital\sphere.h(189,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\sphere.h(190,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\sphere.h(192,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\sphere.h(269,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\sphere.h(270,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\sphere.h(274,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\sphere.h(325,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\sphere.h(326,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\sphere.h(331,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\bezier2.h(117,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\bezier2.h(117,28): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\bezier2.h(120,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\bezier2.h(130,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\bezier2.h(136,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\bezier2.h(137,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\sphere2.h(171,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\sphere2.h(172,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\sphere2.h(174,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\curve.h(147,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\curve.h(147,28): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\curve.h(150,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\curve.h(160,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\curve.h(166,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\curve.h(167,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\wheel.h(79,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\wheel.h(106,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\bezier.h(111,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\bezier.h(111,28): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\bezier.h(114,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\bezier.h(124,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\bezier.h(132,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\bezier.h(133,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\cylinder.h(10,9): warning C4005: 'PI': macro redefinition
+  (compiling source file '../main.cpp')
+      C:\Users\HP\source\repos\projectHospital\sphere.h(15,10):
+      see previous definition of 'PI'
+  
+C:\Users\HP\source\repos\projectHospital\cylinder.h(73,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\cylinder.h(102,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\cylindertree.h(18,10): warning C4005: 'PI': macro redefinition
+  (compiling source file '../main.cpp')
+      C:\Users\HP\source\repos\projectHospital\cylinder.h(10,9):
+      see previous definition of 'PI'
+  
+C:\Users\HP\source\repos\projectHospital\cylindertree.h(132,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\cylindertree.h(372,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\half_sphere.h(68,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\capsule.h(10,9): warning C4005: 'PI': macro redefinition
+  (compiling source file '../main.cpp')
+      C:\Users\HP\source\repos\projectHospital\cylindertree.h(18,10):
+      see previous definition of 'PI'
+  
+C:\Users\HP\source\repos\projectHospital\capsule.h(71,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\capsule.h(109,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\capsule.h(110,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\capsule.h(114,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\capsule.h(160,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\curved_pipe.h(62,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\curved_pipe.h(85,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '../main.cpp')
+  
+C:\Users\HP\source\repos\projectHospital\fractal.h(55,51): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file '../main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file '../main.cpp')
+      G:\OpenGL\Include\glad\glad.h(32,9):
+      see previous definition of 'APIENTRY'
+  
+C:\Users\HP\source\repos\projectHospital\main.cpp(467,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(467,5): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(467,5): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(467,5): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(467,5): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(467,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(467,14): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(467,14): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(467,14): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(467,14): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(467,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(467,22): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(467,22): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(467,22): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(467,22): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(468,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(468,5): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(468,5): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(468,5): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(468,5): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(468,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(468,22): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(468,22): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(468,22): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(468,22): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(469,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(469,5): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(469,5): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(469,5): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(469,5): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(469,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(469,14): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(469,14): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(469,14): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(469,14): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(469,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(469,22): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(469,22): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(469,22): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(469,22): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(470,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(470,5): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(470,5): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(470,5): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(470,5): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(470,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(470,14): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(470,14): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(470,14): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(470,14): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(470,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(470,22): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(470,22): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(470,22): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(470,22): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(471,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(471,5): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(471,5): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(471,5): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(471,5): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(471,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(471,14): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(471,14): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(471,14): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(471,14): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(471,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(471,22): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(471,22): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(471,22): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(471,22): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(472,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(472,5): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(472,5): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(472,5): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(472,5): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(472,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(472,14): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(472,14): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(472,14): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(472,14): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(472,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(472,22): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(472,22): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(472,22): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(472,22): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(473,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(473,5): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(473,5): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(473,5): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(473,5): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(473,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(473,14): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(473,14): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(473,14): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(473,14): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(473,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\HP\source\repos\projectHospital\main.cpp(473,22): warning C4305:         with
+C:\Users\HP\source\repos\projectHospital\main.cpp(473,22): warning C4305:         [
+C:\Users\HP\source\repos\projectHospital\main.cpp(473,22): warning C4305:             _Ty=float
+C:\Users\HP\source\repos\projectHospital\main.cpp(473,22): warning C4305:         ]
+C:\Users\HP\source\repos\projectHospital\main.cpp(529,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(529,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(530,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(530,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(531,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(531,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(532,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(532,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(533,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(533,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(534,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(534,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(535,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(536,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(536,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(537,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(537,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(538,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(538,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(539,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(539,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(540,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(540,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(541,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(541,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(542,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(542,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(544,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(544,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(545,4): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(545,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(550,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(550,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(551,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(551,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(552,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(552,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(553,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(553,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(554,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(554,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(555,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(555,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(556,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(557,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(558,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(558,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(559,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(559,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(560,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(561,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(561,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(562,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(562,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\projectHospital\main.cpp(697,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(697,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(697,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(698,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(698,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(698,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(699,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(699,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(699,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(700,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(700,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(700,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(701,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(701,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(701,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(702,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(702,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(703,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(703,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(703,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(704,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(704,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(704,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(705,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(705,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(705,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(706,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(706,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(706,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(707,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(707,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(707,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(708,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(708,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(708,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(709,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(709,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(709,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(710,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(710,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(710,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(711,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(711,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(711,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(712,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(712,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(712,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(713,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(713,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(713,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(714,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(714,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(714,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(715,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(715,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(715,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(716,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(716,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(716,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(717,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(717,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(717,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(718,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(718,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(718,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(719,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(719,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(719,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(720,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(720,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(720,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(721,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(721,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(721,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(722,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(722,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(722,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(723,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(723,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(723,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(724,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(724,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(724,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(725,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(725,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(725,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(726,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(726,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(727,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(727,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(727,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(728,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(728,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(728,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(729,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(729,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(729,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(730,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(730,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(730,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(731,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(731,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(731,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(732,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(732,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(732,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(733,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(733,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(733,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(734,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(734,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(735,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(735,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(735,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(736,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(736,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(737,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(737,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(737,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(738,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(738,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(738,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(739,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(739,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(739,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(740,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(740,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(740,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(741,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(741,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(742,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(742,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(742,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(743,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(743,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(743,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(744,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(744,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(744,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(745,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(745,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(745,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(746,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(746,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(746,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(789,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(886,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(2556,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\projectHospital\main.cpp(2562,107): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(2562,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(2562,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(2620,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(2627,107): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(2627,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(2627,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(1036,20): warning C4101: 'model2': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(2724,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\projectHospital\main.cpp(2735,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\projectHospital\main.cpp(2758,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(2759,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(2760,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(2761,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(2762,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(2874,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\projectHospital\main.cpp(2892,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\projectHospital\main.cpp(2906,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\projectHospital\main.cpp(2911,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\projectHospital\main.cpp(3040,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\projectHospital\main.cpp(3045,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\projectHospital\main.cpp(3050,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\projectHospital\main.cpp(3055,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\projectHospital\main.cpp(3244,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\projectHospital\main.cpp(3245,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\projectHospital\main.cpp(3250,31): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\projectHospital\main.cpp(3251,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\projectHospital\main.cpp(3256,52): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(3256,45): warning C4101: 'model': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(3348,52): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(3474,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\projectHospital\main.cpp(3980,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(4017,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(4049,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(4165,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(4234,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(4356,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(4426,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(4515,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(4554,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(4638,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(4945,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(5255,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(5494,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(5557,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(5602,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(5623,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(6075,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(6132,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(6269,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(6286,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(6363,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\projectHospital\main.cpp(6454,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\projectHospital\main.cpp(6845,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+  projectHospital.vcxproj -> C:\Users\HP\source\repos\projectHospital\x64\Debug\projectHospital.exe

@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Downloads\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\image_loader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\ap.JPG">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\bed.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\brickwall_1.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\brickwall_2.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\carpet.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\concrete1.PNG">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\concrete2.PNG">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\concrete3.PNG">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\container2.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\container2_specular.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\curtain.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\floor.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\floor2.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\front.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\glass.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\grass_2.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\nakib.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\road.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\road2.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\sky.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\sofa.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\stair.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\stair_upper.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\stick.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\transparent.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\wall.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\wall3.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\walle.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\white.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\wood.jpg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\water.jpeg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\wheelchair.jpeg">
+      <Filter>Source Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\basic_camera.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\bezier.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\bezier2.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\bezier3..h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\camera.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\curve.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cylinder.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\directionalLight.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\pointLight.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\shader.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\sphere.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\sphere2.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\spotLight.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\stb_image.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\wheel.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bezierCurve.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\half_sphere.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\capsule.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\curved_pipe.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\fractal.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cylindertree.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\fragmentShader.fs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\fragmentShader2.fs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\fragmentShaderForPhongShadingWithTexture.fs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\lightFragmentShader.fs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\lightVertexShader.vs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\vertexShader.vs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\vertexShader2.vs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\vertexShaderForPhongShadingWithTexture.vs">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
